@@ -1,0 +1,70 @@
+#div1{
+  position:relative;
+  height:200px;
+  width:100%;
+  border:2px;
+  border-color:#F00;
+  background-color:#333;
+}
+
+#voiture{
+   position:absolute;
+   left:0px;
+   top:40%;
+}
+
+.btn-circle{
+        width: 30px;
+        height: 30px;
+        padding:0px;
+        margin: 5px;
+        border-radius: 15px;
+        text-align: center;
+        background-color: rgb(0, 159, 0);
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+        box-shadow: 1px 1px 0px rgb(0, 159, 0);
+}
+
+#pp{
+        width: 90px;
+        height: 90px;
+        border-radius: 60px;
+        font-size: 12px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+}
+
+#tabord{
+        width: 500px;
+        height: 350px;
+        margin-left: 500px;
+	      border: 2px solid black;
+        text-align: center;
+}
+
+#vitesse{
+        width : auto;
+    // margin-left: 0px;
+}
+
+  .gear{
+        width: 200px;
+        text-align: center;
+  }
+
+#roue{
+  position: absolute;
+  top : 53%;
+  left: 1.9%;
+  width: 55px;
+  height: 35px;
+}
+
+#roue1{
+  position: absolute;
+  top : 53%;
+  left: 10.2%;
+  width: 55px;
+  height: 35px;
+}
